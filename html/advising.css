@@ -1,0 +1,104 @@
+.headerTop {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+	margin: 0px;
+	padding: 0 0 3px 15px;
+	background-color: #fec923;
+}
+.contentHeading {
+	padding-top: 0;
+	margin-top: 0;
+}
+.mainCnt {
+	padding: 10px;
+	padding-top: 0;
+}
+.mainCnt img {
+	padding: 5px;
+}
+.profileImg {
+	float:left;
+	max-width: 100%;
+	height: auto;
+}
+.HHPheadTxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bolder;
+	margin: 0px;
+	margin-left: 15px;
+	padding: 0 0 3px 0;
+}
+.goldHead {
+	background-color: #fec923;
+	padding: 5px;
+}
+
+.tableBorder table, tr, td, th {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 6px;
+}
+
+.clearDiv {
+	clear:both;
+	display:block;
+	overflow:hidden;
+	visibility:hidden;
+	width:0;
+	height:0;
+}
+
+.noBullet ul {
+	list-style-type: none;
+}
+/* linkBox */
+
+.linkBoxHeader {
+
+	font-size: 1.2em;
+	font-weight: bold;
+	background-color: #592a8a;
+	color: #ffffff;
+	min-height: 19px;
+	margin-top: 5px;
+	padding-top: 0.2em;
+	padding-bottom: 0.2em;
+	padding-right: 0.5em;
+	padding-left: 0.5em;
+}
+.linkBoxHeaderLink {
+	color: #ffffff;
+}
+.linkBoxContent {
+	width: 86%;
+	margin: 0 auto;
+	font-size: 1.1em;
+	font-weight: bold;
+	background-color: #ffffff;
+	color: #592a8a;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	padding-top: 0.2em;
+	padding-bottom: 0.7em;
+	border-bottom: 1px #592a8a solid;
+	line-height: 1.5;
+}
+
+#advLinksLinks {
+	float: left;
+	width: 100%;
+	list-style: none;
+	margin-left: -0.7em;
+	padding-left: 0.7em;
+	padding-right: 0.5em;
+}
+#advLinksLinks li {
+	float: left;
+	width: 50%;
+	color: #592a8a;
+	padding-top: 0.2em;
+	font-size: 0.7em;
+}
+/* end linkBox */
